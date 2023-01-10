@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Culinarian</string>
+    <string name="folders_menu">Folders</string>
+    <string name="search_menu">Search</string>
+    <string name="shopping_menu">Shopping</string>
+    <string name="add_menu">Add Recipe</string>
+    <string name="folders_header">Folders</string>
+    <string name="search_header">Search</string>
+    <string name="shopping_header">My Shopping List</string>
+    <string name="recipes_header">Search</string>
+    <string name="recipe_header">Recipe</string>
+    <string name="ingredients_header">Ingredients:</string>
+    <string name="instructions_header">Instructions:</string>
+    <string name="edit_button">Edit</string>
+    <string name="ingredient_hint">Add Ingredient</string>
+    <string name="instruction_hint">Add Instruction</string>
+    <string name="search_button">Search</string>
+    <string name="folder_button">Folders</string>
+    <string name="add_shopping_button">Add to Shopping List</string>
+    <string name="submit_button">Submit</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="delete_button">Delete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="FolderTitleHint">Friends for dinner recipes…</string>
+    <string name="recipes_list_fab">Recipes_List_Fab</string>
+    <string name="add_recipe_name">Add Recipe Name</string>
+    <string name="search">Search</string>
+    <string name="add_recipes">Add Recipes</string>
+    <string name="a_new_recipe">A New Recipe</string>
+    <string name="add_new_recipe">addnewrecipe</string>
+    <string name="ok_recipes_to_list">OK</string>
+    <string name="cancel_recipes_to_list">Cancel</string>
+    <string name="all_recipes">All Recipes</string>
+    <string name="folder_title">Folder Title</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="search_recipe_name">Recipe Name</string>
+    <string name="Add_Folder">FloatingActionButton</string>
+    <string name="add_new_recipe_button">Add New Recipe</string>
+    <string name="clear_button">Clear All</string>
+</resources>
